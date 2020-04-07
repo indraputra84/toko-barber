@@ -1,0 +1,6 @@
+1.benar
+nomor hp otomatis angka saja 
+<input class="input100" type="number" name="nomorhp" id="nomorhp" placeholder="Nomor hp(+62)" minlength="1" maxlength="15">
+
+1.bug
+<input class="input100" type="text" name="nomorhp" id="nomorhp" placeholder="Nomor hp(+62)">

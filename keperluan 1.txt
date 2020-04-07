@@ -1,0 +1,35 @@
+tampilan daftar tidak rapi 
+
+ADMIN
+
+-tampilan ubah barang tidak rapi
+-format gambar ada yg salah 
+-tambahi sistem acc pembayaran
+-konfirmasi pembayaran 
+
+USER (LOGIN/TIDAK LOGIN)
+
+ logika jika sudah dihalaman produk kami .. navbar (produk kami)tidak bisa dipencet 
+ lagi..dikasih tanda 
+
+(TIDAK LOGIN)
+-shop (jika belum login) bagian navbar tambahi button login daftar sprti shopee / login | daftar
+
+-bug contact tidak bisa dipencet produk kami (KONTAK)
+-contact tampilkan map sebelah kiri , kirim pesan ke admin (jika tidak diisi ada 
+ notif merah / isilah terlebih dhlu)
+
+bagian tengah
+-kotak harga tinggi ke rendah kurang panjang
+-Showing 1–12 of 16 results mengikuti barang
+-jika dipencet detail .. pindah halaman ke spesifikasi barang bisa pesan dan masukan 
+ keranjang bila (SUDAH LOGIN) kotak LOGIN sperti dishopee
+
+categories 
+jika dipencet pomade ya keluar pomade
+
+cari produk akan muncul yg dicari~
+
+jika sudah login tampilan navbar seperti awal ( kanan profil kiri keranjang)
+
+-hilangkan link iklan dibawah (paypal)

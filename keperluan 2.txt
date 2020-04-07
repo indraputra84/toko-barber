@@ -1,0 +1,25 @@
+1.login,Daftar
+
+	DAFTAR user
+tabel kekecilan dibesarkan seperti tabel shopee
+smua tabel ngikut tabel di shopee jadi agak kotak
+tabel masukan nama samakan daftar dishopee
+Font ngikut web shopee
+jika diklik bayangan *masukkan nama hilang
+Tata letak kurang rapi
+tata letak bayangan font 
+(notif *salah* kurang pas) jika TIDAK diisi muncul notif (isilah) 
+password kliatan tidak bintang(****)
+background *button kembali* dihilangkan.font diganti abu2
+warna button daftar hijau gelap diganti hijau terang sperti button login 
+
+	LOGIN user
+gedein tabel ngikut shopee jadi agak kotak
+tabel masukan username dan paswrd kekecilan 
+tabel button login ngikut tabel masuk username ,pswrd
+ngikut shopee 
+
+Logika...jika sudah login walaupun halaman diback berulang kali tetap login dan tidak log out dgn sendirinya
+
+barang toko disambungkan ke database
+	

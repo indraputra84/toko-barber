@@ -1,0 +1,32 @@
+benerno , coba login salah line 42 . login.php
+
+
+ADMIN
+-tambahi sistem acc pembayaran
+-konfirmasi pembayaran 
+
+Diproduk kami bisa ganti profil gambar,,username juga.
+
+
+(TIDAK LOGIN)
+-shop (jika belum login) bagian navbar tambahi button login daftar sprti shopee / 
+ login | daftar (GK USAH)
+
+-contact tampilkan map sebelah kiri , kirim pesan ke admin (jika tidak diisi ada 
+ notif merah / isilah terlebih dhlu)
+-di halaman kontak , produk kami dipencet error
+
+barang yg dimasukan keranjang bisa dlihat(lngsung pindah halaman ke halaman keranjang)
+dihalaman keranjang bisa checkout ..bisa milih pembayaran via cod atau transfer
+
+-Showing 1–12 of 16 results mengikuti barang
+-jika dipencet detail .. pindah halaman ke spesifikasi barang bisa pesan dan masukan 
+ keranjang bila (SUDAH LOGIN) kotak LOGIN sperti dishopee
+
+USER
+id:adi19
+pw :123
+
+ADMIN
+id:admin
+pw:admin
